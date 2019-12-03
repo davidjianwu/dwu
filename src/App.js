@@ -5,9 +5,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Wussup<h1>
-        <img src={pic} className="App-logo" alt="logo" />
-      </header>
+      <h1>Wussup</h1>
+      <img src={pic} className="pic" alt="pic" />
     </div>
   );
 }
