@@ -5,9 +5,11 @@
   "homepage": "http://davidwu.site",
   "proxy": "http://localhost:5001/",
   "dependencies": {
+    "antd": "^3.26.6",
     "express": "^4.17.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
+    "react-ga": "^2.7.0",
     "react-scripts": "3.2.0"
   },
   "scripts": {
@@ -34,6 +36,7 @@
     ]
   },
   "devDependencies": {
+    "css-loader": "^3.4.1",
     "gh-pages": "^2.1.1"
   }
 }
